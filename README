@@ -1,0 +1,9 @@
+A project whose purpose is to identify notes present in recorded music.
+
+Originally written as a course project for SYDE 422 - Machine Intelligence
+(University of Waterloo).  A much more detailed description of how this works
+is available in doc/report.tex (which can be read plaintext, or compiled into
+a nice PDF), but I do not really intend to keep that up-to-date.
+
+All test data is included, although the ground truth is not really explicitly
+documented - you should be able to figure it out by reading notesets.py
